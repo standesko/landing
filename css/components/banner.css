@@ -1,0 +1,38 @@
+.banner {
+    background-image: url(https://static.mycity.travel/manage/uploads/6/24/24810/d828e07286724ae265c41b1a7c654f07ba96185d_2000.JPEG);
+    background-size: cover;
+    background-position: center;
+    padding: 175px 0;
+    height: 100px;
+    opacity: 0.1px;
+    text-align: center
+}
+
+.banner h1 {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.banner p {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #ccda46;
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.btn-primary:hover {
+  background-color: #7fcd91;
+  color: white;
+  border: 0.1px solid #4d80e4
+}

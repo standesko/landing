@@ -1,0 +1,31 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #f5d773;
+}
+.footer a {
+    font-size: 30px;
+    color: #512b58;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+.footer p {
+    color: white;
+}
+.footer .fas {
+    color: #512b58;
+}
+.fa-fw {
+    text-align: center;
+    width: 1.25em;
+}
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
